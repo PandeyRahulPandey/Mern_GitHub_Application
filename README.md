@@ -1,7 +1,20 @@
 Live link : https://mern-github-application-knhf.onrender.com
 
 
-Application Features:
+
+
+◦ Implemented MERN stack with TailwindCSS and GitHub API to create a GitHub-like application.
+
+◦ Integrated authentication and authorization using Passport.js with GitHub authentication. user profile and
+  repository fetching from GitHub API.
+  
+◦ Implemented client-side repository filtering and comprehensive error handling on both server and client
+sides.
+
+
+
+
+Application Features:-
 
 ⚙️ Tech stack: MERN + TailwindCSS + Github API
 
